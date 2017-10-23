@@ -9,8 +9,7 @@
 title: Vasileios Kyriakidis
 email: kyriakidis.v@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  About to graduate from the Technological Institute of Central Macedonia with a Bacherlor in IT Engineering.
-  Experience in C, Java and Python. Passion for InfoSec. Bookworm and hobby Baker.
+Developer based in Greece.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "vkyriakidis.com" # the base hostname & protocol for your site
 twitter_username: kyr_dev
